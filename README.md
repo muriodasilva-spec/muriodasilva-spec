@@ -38,7 +38,7 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/muriodasilva-spec/muriodasilva-spec/snake-output/snake.svg" alt="Snake animation" />
+
 
 ###
 
